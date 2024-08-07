@@ -7,4 +7,4 @@
 ## 正文
 
 我暂时不知道这个页面应该用来干啥，先这么放着（
-[Article](doc/spawing-rates/report.md)
+[Article](doc/spawning-rates/report.md)
